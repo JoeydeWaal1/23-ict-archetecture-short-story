@@ -2,6 +2,9 @@
 
 Auteur: *Joey de Waal*
 
+
+![fairytale](https://ik.imagekit.io/panmac/tr:f-auto,w-740,pr-true//bcd02f72-b50c-0179-8b4b-5e44f5340bd4/98291a5c-63ec-448c-b850-80da4043acdd/Fairytales.jpg)
+
 Once upon a time, in a kingdom far away, there lived a beautiful princess named Isabella. She was kind and gentle, and loved to spend her days reading and exploring the gardens of her castle.
 
 One day, while wandering through the woods, Isabella stumbled upon a small cottage hidden among the trees. Curious, she approached the door and knocked.
