@@ -1,4 +1,4 @@
-#Short ChatGPT story/fairytale
+# Short ChatGPT story/fairytale
 Once upon a time, in a kingdom far away, there lived a beautiful princess named Isabella. She was kind and gentle, and loved to spend her days reading and exploring the gardens of her castle.
 
 One day, while wandering through the woods, Isabella stumbled upon a small cottage hidden among the trees. Curious, she approached the door and knocked.
